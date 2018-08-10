@@ -29,7 +29,7 @@ config_eval  = {
    'equal_weight': 0,  #1 等权， 2 市值平方根加权， 0 因子权重
 
    'res_flag'  :1,   #0 不中性，1 全中性，2 市值行业中性 ，3 行业中性
-   'alpha_name': 'alpha_worldquant101_51', 
+   'alpha_name': 'alpha_worldquant101_54', 
    'decay_days': 5, #EMA衰减天数
 
    'begin_date': '20140501',
